@@ -1,0 +1,27 @@
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background: url(./img/bg.jpg);
+    background-size: 100vw 100vh;
+ 
+}
+h1{
+    font-weight:bold;
+}
+#scorebox{
+    position: absolute;
+    top: 60px;
+    right: 150px;
+    font-size: 39px;
+
+}
+#highscorebox{
+    position: absolute;
+    top: 90px;
+    right: 150px;
+    font-size: 39px;
+    text-align: center;
+
+}
+
